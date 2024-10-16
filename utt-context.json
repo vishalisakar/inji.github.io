@@ -5,7 +5,7 @@
       "type": "@type",
       "schema": "https://schema.org/",
       "UTTCertCredential": {
-        "@id": "https://inji.github.io/utt-context.json#UTTCertCredential"
+        "@id": "https://vishalisakar.github.io/utt-context.json#UTTCertCredential"
       },
       "name": "schema:name",
       "email": "schema:email",
